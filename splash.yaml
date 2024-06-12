@@ -1,0 +1,5 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/logo/retro-revive-logo-bright.png
+  color_dark: "#121212"
+  image_dark: assets/logo/retro-revive-logo-dark.png
